@@ -1,10 +1,18 @@
 import React from 'react'
 
-import { ExampleComponent } from 'celik-ui'
+import { Button } from 'celik-ui'
 import 'celik-ui/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return (  
+    <>
+      <Button type='primary' />
+      <Button type='default' />
+      <Button type='dashed' />
+      <Button type='text' />
+      <Button type='link' />
+   </>
+  )
 }
 
 export default App

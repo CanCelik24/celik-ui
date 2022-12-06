@@ -2,6 +2,17 @@
 
 > Made with create-react-library
 
+[Kodluyoruz](https://www.kodluyoruz.org/)  Front-End eğitimi için hazırlanan 'Orta Seviye Front-End Web Development Patikası' projesidir. 
+
+Konu: Bir "Button" component'i geliştirip, bunu npmjs üzerinde paylaşmak.
+
+Proje linki: https://www.npmjs.com/package/ogulcan-ui
+
+Görseller:
+
+![Alt text](celik-ui-gorsel.png)
+![Alt text](npmjs-gorsel.png)
+
 [![NPM](https://img.shields.io/npm/v/celik-ui.svg)](https://www.npmjs.com/package/celik-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
