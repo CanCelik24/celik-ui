@@ -19,7 +19,7 @@ Görseller:
 ### [Hacker Rank Profilim](https://www.hackerrank.com/ogulcan_celik24)
 #### [www.patika.dev](https://app.patika.dev/)
 
-</hr>
+<hr>
 
 ## Install
 
