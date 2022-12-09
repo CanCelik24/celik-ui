@@ -1,4 +1,4 @@
-# celik-ui
+# Celik-UI
 
 > Made with create-react-library
 
@@ -14,6 +14,12 @@ Görseller:
 ![Alt text](npmjs-gorsel.png)
 
 [![NPM](https://img.shields.io/npm/v/celik-ui.svg)](https://www.npmjs.com/package/celik-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+### [Patika.dev Profilim](https://app.patika.dev/canncelik)
+### [Hacker Rank Profilim](https://www.hackerrank.com/ogulcan_celik24)
+#### [www.patika.dev](https://app.patika.dev/)
+
+</hr>
 
 ## Install
 
